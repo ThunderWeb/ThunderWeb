@@ -1,0 +1,13 @@
+Enterprise Web Portal
+DevelopmentEnterprise portals empower your employees and customers to be organized, streamlined and connected with up-to-date information available at-a-click. Our state of the art portal development starts from requirement definition to prototype building, development, deployment and training. We believe in closely working with our clients to identify their domain and business specific objectives to enable 100% custom project development, meeting or exceeding client's business requirements.
+
+Customer Relationship Management System
+Managing customers is the most critical aspect of any business. Today's highly computerized world is changing the buyers' behavior and thus calls for new approaches in building corporate CRM strategies. At Infinite Softech, we ensure that your CRM system is designed not only to support fine-tuned, interactive communication with customers but also to flexibly adjust your policies and marketing strategies to the changing customer needs. Our team is expert in automating the entire sales process starting from contact management and ending with signing a final contract with a customer to minimize the workload the sales representative spends on each phase. We can develop features such as sales work flow automation, quote generation and comprehensive reporting, bringing the highest efficiency in acquiring new customers, offering an excellent service and generating contracts to both large enterprise and small business.
+
+Business Application Development
+Infinite Softech takes pride in providing custom application development tailored to the client's specific business requirements. Our team can help you in streamlining your business processes, using latest technology, to give your organization a competitive edge. We deliver rich Internet applications combining our solid cross-domain experience, technological expertise and an established development methodology.
+
+Application Reengineering and EnhancementWe provide reverse engineering of existing systems to understand their business functionality and technical architecture and introduce new/enhanced business logic and improved performance.
+
+Application Maintenance
+Our proactive approach to website custom application support and maintenance is backed by our planning strategy to focus on scalability, stability, and preventive maintenance to check implementation or post deployment issues.
